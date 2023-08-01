@@ -1,0 +1,6 @@
+CS105;Object Oriented Programming with Java;6
+CS391;Web Application Programming;4
+EE302;Digital Signal Processing;6
+EE321;Microprocessors;6
+EE350;ElectronicsII;6
+ECON210;Business;2
