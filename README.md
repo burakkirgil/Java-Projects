@@ -6,4 +6,4 @@ Shopping system with two types of membership that determine the amount of discou
 
 ### Student Course Enrollment
 
-A basic simulation of course enrollment system with reading files and printing students' enrolled courses
+Classes and methods required for a course enrollment system
